@@ -19,6 +19,6 @@ Conceitos que estão ligados ao Core Data:
 
 4 - NSEntityDescription: ENTIDADE no Core Data
 
-5 - NSFetchRequest: a classe responsavel de RECUPERAR os dados no Core Data. (fetchRequest  recupera un conjunto de objetos)
+5 - NSFetchRequest: a classe responsavel de RECUPERAR os dados no Core Data. (fetchRequest  recupera um conjunto de objetos)
 
-6 - extensão .xcdatamodeld  corresponde ao modelo de dados do app. Esde modelo de dados pode criar, modificar e configurar visualmente no proprio Xcode.
+6 - extensão .xcdatamodeld  corresponde ao modelo de dados do app. Este modelo de dados pode criar, modificar e configurar visualmente no proprio Xcode.
